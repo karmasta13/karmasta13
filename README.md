@@ -22,11 +22,11 @@ I am an enthusiastic, passionate individual that can readily adapt to multiple h
 ### 🗂️ Highlight Projects
 <p align="center">
   <a href="https://github.com/karmasta13/Chess-Engine">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karmasta13&repo=Chess-Engine&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Chess-Engine" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=karmasta13&repo=Chess-Engine&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Chess-Engine" />
   </a>
 
   <a href="https://github.com/karmasta13/Ropey-System">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karmasta13&repo=Ropey-System&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Ropey-System" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=karmasta13&repo=Ropey-System&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Ropey-System" />
   </a>
 </p>
 
