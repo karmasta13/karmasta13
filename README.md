@@ -40,11 +40,11 @@ I am an enthusiastic, passionate individual that can readily adapt to multiple h
 <summary> 📈 GitHub Stats </summary>
 
 
-<img  align="left" width="53%" src="https://github-readme-stats.vercel.app/api?username=karmasta13&show_icons=true&include_all_commits=true&theme=apprentice&hide_border=true" alt="Karmasta's github stats" />
+<img  align="left" width="53%" src="https://github-readme-stats.vercel.app/api?username=karmasta13&show_icons=true&include_all_commits=true&theme=city_lights&hide_border=true" alt="Karmasta's github stats" />
 
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmasta13&layout=compact&theme=apprentice&hide_border=true" />
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmasta13&layout=compact&theme=city_lights&hide_border=true" />
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=karmasta13&custom_title=Karmasta's%20activity%20graph&theme=github&hide_border=true&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=karmasta13&custom_title=Karmasta's%20activity%20graph&theme=nord&hide_border=true&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details> 
 
