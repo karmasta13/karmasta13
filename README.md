@@ -1,9 +1,10 @@
+
 <!-- Introduction -->
 # Hello, I am labbi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <div align="">
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/labbi-karmacharya/)](https://www.linkedin.com/in/labbi-karmacharya/)
-  <!--- [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[]mailto:[]) -->
+  <!--- [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[]mailto:[]) -->
 </div>
 
 
@@ -20,26 +21,28 @@ I am an enthusiastic, passionate individual that can readily adapt to multiple h
 
 <!-- Projects -->
 ### 🗂️ Highlight Projects
-<p align="center">
+
   <a href="https://github.com/karmasta13/Chess-Engine">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=karmasta13&repo=Chess-Engine&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Chess-Engine" />
+    <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=karmasta13&repo=Chess-Engine&show_icons=true&line_height=25&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Chess-Engine" />
   </a>
 
   <a href="https://github.com/karmasta13/Ropey-System">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=karmasta13&repo=Ropey-System&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Ropey-System" />
+    <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=karmasta13&repo=Ropey-System&show_icons=true&line_height=25&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Ropey-System" />
   </a>
-</p>
-
 <br>
 
+
+<br>
 
 <!-- Stats -->
 <details> 
 
 <summary> 📈 GitHub Stats </summary>
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=karmasta13&show_icons=true&include_all_commits=true&theme=apprentice&hide_border=true" alt="Karmasta's github stats"/></a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmasta13&layout=compact&theme=apprentice&hide_border=true" /></a> |
-| ------------- | ------------- |
+
+<img  align="left" width="53%" src="https://github-readme-stats.vercel.app/api?username=karmasta13&show_icons=true&include_all_commits=true&theme=apprentice&hide_border=true" alt="Karmasta's github stats" />
+
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmasta13&layout=compact&theme=apprentice&hide_border=true" />
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=karmasta13&custom_title=Karmasta's%20activity%20graph&theme=github&hide_border=true&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
