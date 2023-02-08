@@ -10,7 +10,9 @@
 
 <!-- Bio and interest -->
 <br>
-I am an enthusiastic, passionate individual that can readily adapt to multiple hats (Designer 🎨 Web Developer 🌐, Data Visualizer 📈, photographer 📷) depending on what the project demands. I've developed a strong interest in data science and picture myself working in this industry.
+<!-- I am an enthusiastic, passionate individual that can readily adapt to multiple hats (Designer 🎨 Web Developer 🌐, Data Visualizer 📈, photographer 📷) depending on what the project demands. I've developed a strong interest in data science and picture myself working in this industry. -->
+
+Data Jedi on a mission to wield power of numbers to bring order to the universe. Striving to turn data into lightsaber of knowledge to fight dark side of ignorance and uncover the truth. 
 
 - 🔭 I’m currently working on a personal project
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
