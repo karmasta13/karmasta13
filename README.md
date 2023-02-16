@@ -14,7 +14,7 @@
 
 Data Jedi on a mission to wield power of numbers to bring order to the universe. Striving to turn data into lightsaber of knowledge to fight dark side of ignorance and uncover the truth. May the power of data be with me. 
 
-- 🔭 I’m currently working on a personal project
+- 🔭 I’m currently working as Associate Data Scientist at [**CloudFactory**](https://www.cloudfactory.com/)
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 😄 I enjoy working on Machine Learning and Data Science
 - ⚡ Fun fact: I am a bookholic
