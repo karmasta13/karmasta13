@@ -14,5 +14,6 @@
 | Programming Foundations: Algorithms                        | Linkedin Learning    | July 27, 2020     | NA          | [Link](nan)                                                                                                 | AYtYD9V0xNRxTsdSDMAc9C9DhS7y | 
 | CompTIA A+ (220-1001) Cert Prep 1: The Basics              | Linkedin Learning    | July 21, 2020     | NA          | [Link](nan)                                                                                                 | AS5B0JnCfgv0tYRt8POzQhptxqIm | 
 | Technical Support Fundamentals                             | Coursera             | July 02, 2020     | NA          | [Link](https://coursera.org/share/2164e2af4a46e1bb038a55f37132872d)                                         | NA                           | 
+| dbt Fundamentals                                           | Dbt Labs             | February 23, 2020 | 25/02/2020  | [Link](https://www.credential.net/ce34d7a6-3019-4822-9ef3-bc024e17235c)                                     | NA                           | 
 
 <base target='_blank'>
