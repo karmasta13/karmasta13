@@ -1,4 +1,5 @@
 Certificate_Name,Issuing_Organization,Date_Issued,Expiry_Date,Credential_URL,Certificate_ID
+dbt Fundamentals,Dbt Labs,2023-02-23,2025-02-25,https://www.credential.net/ce34d7a6-3019-4822-9ef3-bc024e17235c,
 Advanced SQL,Kaggle,2023-02-01,,https://www.kaggle.com/learn/certification/karmasta13/advanced-sql,
 Intro to SQL,Kaggle,2023-01-30,,https://www.kaggle.com/learn/certification/karmasta13/intro-to-sql,
 Figma for UX Design (2018),Linkedin Learning,2021-07-18,,,AejLYoBcwzCbOWjivVPAMaaHGTd1
@@ -8,4 +9,3 @@ Programming for Everybody (Getting Started with Python),Coursera,2020-07-31,,htt
 Programming Foundations: Algorithms,Linkedin Learning,2020-07-27,,,AYtYD9V0xNRxTsdSDMAc9C9DhS7y
 CompTIA A+ (220-1001) Cert Prep 1: The Basics,Linkedin Learning,2020-07-21,,,AS5B0JnCfgv0tYRt8POzQhptxqIm
 Technical Support Fundamentals,Coursera,2020-07-02,,https://coursera.org/share/2164e2af4a46e1bb038a55f37132872d,
-dbt Fundamentals,Dbt Labs,2020-02-23,25/02/2020,https://www.credential.net/ce34d7a6-3019-4822-9ef3-bc024e17235c,
