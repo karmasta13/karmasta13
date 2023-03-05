@@ -12,7 +12,6 @@ df.sort_values(by='Date_Issued', ascending=False, inplace=True)
 df.Issuing_Organization = df.Issuing_Organization.str.title().str.strip()
 df.Certificate_Name = df.Certificate_Name.str.strip()
 df.Credential_URL = df.Credential_URL.str.strip()
-df.Certificate_ID = df.Certificate_ID.str.strip()
 
 
 # saving the cleaned data to csv file 
@@ -25,7 +24,6 @@ df_output = df.copy()
 df_output['Date_Issued'] = pd.to_datetime(df['Date_Issued'], format="%b %d, %Y").dt.strftime("%B %d, %Y")
 df_output.Expiry_Date = df_output.Expiry_Date.fillna('NA')
 df_output.Credential_URL = df_output.Credential_URL.apply(lambda x: "[Link]({})".format(x) if x else "NA")
-df_output.Certificate_ID = df_output.Certificate_ID.fillna('NA')
 
 
 
@@ -36,8 +34,7 @@ for col, label in [
                    ('Issuing_Organization', 'Issuing Organization'), 
                    ('Date_Issued', 'Date Issued '),    
                    ('Expiry_Date','Expiry date'),  
-                   ('Credential_URL', 'Credential URL'), 
-                   ('Certificate_ID', 'Certificate ID')]:
+                   ('Credential_URL', 'Credential URL')]:
     maximum_length = max(len(label), df_output[col].str.len().max())
   
     output[0] += str.ljust(label, maximum_length) + " | "
