@@ -20,35 +20,18 @@ Data Jedi on a mission to wield power of numbers to bring order to the universe.
 - ⚡ Fun fact: I am a bookholic
 <br/>
 
-
-<!-- Projects -->
-### 🗂️ Highlight Projects
-
-  <a href="https://github.com/karmasta13/Chess-Engine">
-    <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=karmasta13&repo=Chess-Engine&show_icons=true&line_height=25&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&hide_border=true" alt="Chess-Engine" />
-  </a>
-
-  <a href="https://github.com/karmasta13/Ropey-System">
-    <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=karmasta13&repo=Ropey-System&show_icons=true&line_height=25&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&hide_border=true" alt="Ropey-System" />
-  </a>
-<br>
-
-
-<br>
-
 <!-- Stats -->
-<details> 
-
-<summary> 📈 GitHub Stats </summary>
-
-
-<img  align="left" width="53%" src="https://github-readme-stats.vercel.app/api?username=karmasta13&show_icons=true&include_all_commits=true&theme=city_lights&hide_border=true" alt="Karmasta's github stats" />
-
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmasta13&layout=compact&theme=city_lights&hide_border=true" />
-
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=karmasta13&custom_title=Karmasta's%20activity%20graph&theme=nord&hide_border=true&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</details> 
+### 📈 GitHub Stats
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=crypticsy&&count_private=true&show_icons=true&bg_color=ffffff&title_color=1f1f1f&text_color=1f1f1f&icon_color=ffbb00&hide_border=true">
+<img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=karmasta13&&count_private=true&show_icons=true&bg_color=0D1117&title_color=ffffff&text_color=929292&icon_color=F1E05A&hide_border=true"/>
+</picture>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crypticsy&layout=compact&bg_color=ffffff&title_color=1f1f1f&text_color=1f1f1f&hide_border=true">
+<img width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karmasta13&layout=compact&bg_color=0D1117&title_color=ffffff&text_color=929292&hide_border=true" />
+</picture>
+</div>
 
 
 <!-- Design -->
