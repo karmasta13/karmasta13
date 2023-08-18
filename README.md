@@ -18,6 +18,8 @@ Data Jedi on a mission to wield power of numbers to bring order to the universe.
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 😄 I enjoy working on Machine Learning and Data Science
 - ⚡ Fun fact: I am a bookholic
+- 🌟 Founder of the project Panchi Nepal, focusing on leadership and SRHR
+
 <br/>
 
 <!-- Stats -->
