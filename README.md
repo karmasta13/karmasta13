@@ -5,7 +5,7 @@
 
 <div>
 
-<a href="https://www.linkedin.com/in/animeshbasnet/" target="_blank">
+<a href="https://www.linkedin.com/in/labbi-karmacharya/" target="_blank">
   <img alt="LinkedIn Badge" width="100px" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 
@@ -31,7 +31,7 @@ When I'm not cracking codes in the world of data science, you can find me making
 
 - 👩‍💻  Currently working as an Associate Data Scientist at [**Cloud Factory**](https://www.cloudfactory.com/).
 - 💬  Let's brainstorm over tech, algorithms, career, and music
-- 🔍 Interested in my path to this point? Think [**certificates**](./certificate-station) for the story.
+- 🔍 Interested in my path to this point? Think [**certificates**](https://github.com/karmasta13/karmasta13/tree/main/certificate_station) for the story.
 - 🌟  Founder of the project Panchi Nepal, focusing on leadership and SRHR
 - ⚡  Fun fact: I'm a bookaholic and I've lost count of how many bookmarks I own
 
