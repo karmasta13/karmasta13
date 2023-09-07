@@ -44,16 +44,26 @@ When I'm not cracking codes in the world of data science, you can find me making
 
 **Github Stats:**
 
-<div align="center">
+<div align="left">
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=karmasta13&&count_private=true&show_icons=true&bg_color=ffffff&title_color=1f1f1f&text_color=1f1f1f&icon_color=ffbb00&hide_border=true">
-<img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=karmasta13&&count_private=true&show_icons=true&bg_color=0D1117&title_color=ffffff&text_color=929292&icon_color=F1E05A&hide_border=true"/>
+<img width="43%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=karmasta13&&count_private=true&show_icons=true&bg_color=0D1117&title_color=ffffff&text_color=929292&icon_color=F1E05A&hide_border=true"/>
 </picture>
+
+<picture>
+ <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="My streak" src="https://github-readme-streak-stats.herokuapp.com/?user=karmasta13&theme=github-dark-blue&hide_border=true&stroke=0000&exclude_days=Sun%2CSat&hide_total_contributions=true&background=060A0CD0&hide_current_streak=true&card_width=130"/>
+</picture>
+
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karmasta13&layout=compact&bg_color=ffffff&title_color=1f1f1f&text_color=1f1f1f&hide_border=true">
-<img width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karmasta13&layout=compact&bg_color=0D1117&title_color=ffffff&text_color=929292&hide_border=true" />
+<img width="43%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karmasta13&layout=compact&bg_color=0D1117&title_color=ffffff&text_color=929292&hide_border=true" />
 </picture>
+
 </div>
+
+
+       
+</p>
 
 <br/>
 
