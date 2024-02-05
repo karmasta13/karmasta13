@@ -16,10 +16,7 @@
 
 
 <!-- Bio and interest -->
-<div>
-<p align="justify">
-When it comes to data, I'm like a modern-day Enola Holmes, always on the hunt for the story behind the numbers. With a background in design, I add a touch of flair to my analysis, making even the driest data sets come to life.
-</p>
+Regarding data, they call me  Enola Holmes because I am always searching for the story behind the numbers. With a background in design, I add a touch to my analysis, making even any datasets come to life. I also love to listen to [**Super Data Science Podcast**](https://www.superdatascience.com/podcast) and read research papers. 
 
 <p align="justify">
 When I'm not cracking codes in the world of data science, you can find me making a difference in the lives of young girls. From mentoring to volunteering, I believe that education is the key to unlocking a brighter future, I'm dedicated to doing my part to make that future a reality.
@@ -32,7 +29,7 @@ When I'm not cracking codes in the world of data science, you can find me making
 - 👩‍💻  Currently working as an Associate Data Scientist at [**Cloud Factory**](https://www.cloudfactory.com/).
 - 💬  Let's brainstorm over tech, algorithms, career, and music
 - 🔍 Interested in my path to this point? Think [**certificates**](https://github.com/karmasta13/karmasta13/tree/main/certificate_station) for the story.
-- 🌟  Founder of the project Panchi Nepal, focusing on leadership and SRHR
+- 🌟  Founder of the project [Digital Kala Nepal](https://www.instagram.com/digitalkala.nepal/) which works to bridge the digital divide, and [Panchi Nepal](https://www.instagram.com/panchi.nepal/) which works to aware people on SRHR and leadership to women.
 - ⚡  Fun fact: I'm a bookaholic and I've lost count of how many bookmarks I own
 
 <br/>
