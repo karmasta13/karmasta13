@@ -26,7 +26,7 @@ When I'm not cracking codes in the world of data science, you can find me making
 
 **More about me:**
 
-- 👩‍💻  Currently working as an Associate Data Scientist at [**Cloud Factory**](https://www.cloudfactory.com/).
+- 👩‍💻  Currently working as Research Fellow at [**Equitech Futures**](https://www.equitechfutures.com/).
 - 💬  Let's brainstorm over tech, algorithms, career, and music
 - 🔍 Interested in my path to this point? Think [**certificates**](https://github.com/karmasta13/karmasta13/tree/main/certificate_station) for the story.
 - 🌟  Founder of the project [Digital Kala Nepal](https://www.instagram.com/digitalkala.nepal/) which works to bridge the digital divide, and [Panchi Nepal](https://www.instagram.com/panchi.nepal/) which works to aware people on SRHR and leadership to women.
