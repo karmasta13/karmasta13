@@ -19,7 +19,7 @@
 Regarding data, they call me  Enola Holmes because I am always searching for the story behind the numbers. With a background in design, I add a touch to my analysis, making even any datasets come to life. I also love to listen to [**Super Data Science Podcast**](https://www.superdatascience.com/podcast) and read research papers. 
 
 <p align="justify">
-When I'm not cracking codes in the world of data science, you can find me making a difference in the lives of young girls. From mentoring to volunteering, I believe that education is the key to unlocking a brighter future, I'm dedicated to doing my part to make that future a reality.
+ From mentoring to volunteering, I believe that education is the key to unlocking a brighter future, I'm dedicated to doing my part to make that future a reality.
 </p>  
 </br>
 
